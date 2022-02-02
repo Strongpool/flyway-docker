@@ -1,2 +1,2 @@
 ARG IMAGE_TAG
-FROM flyway:${IMAGE_TAG}
+FROM flyway/flyway:${IMAGE_TAG}
